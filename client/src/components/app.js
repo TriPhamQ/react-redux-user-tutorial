@@ -4,7 +4,7 @@ import UserDetail from '../containers/user-details';
 
 const App = () => (
   <div>
-    <h2>User List</h2>
+    <h2>Users List</h2>
     <UsersList />
     <hr/>
     <h2>User Details</h2>
